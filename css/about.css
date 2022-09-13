@@ -112,22 +112,22 @@
     width: 600px;
     line-height: 36px;
     font-size: 18px;
-    margin-left: 100px;
-    margin-top: 50px;
+    margin-left: 50px;
+    /*margin-top: 0px;*/
 }
 
 .me_img {
     width: 800px;
-    height: 600px;
+    height: 700px;
 }
 
 .animate {
     padding-left: 20px;
     width: 500px;
-    height: 500px;
+    height: 800px;
     font-size: 16px;
     color: #000;
-    animation: 20s wordsLoop linear infinite normal;
+    /*animation: 20s wordsLoop linear infinite normal;*/
 }
 
 @keyframes wordsLoop {
